@@ -1,1 +1,2 @@
 Hello World
+Adding line 2 from command line
